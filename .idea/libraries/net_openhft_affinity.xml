@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="net.openhft.affinity" type="repository">
+    <properties maven-id="net.openhft:affinity:3.26ea5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/openhft/affinity/3.26ea5/affinity-3.26ea5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/5.5.0/jna-5.5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna-platform/5.5.0/jna-platform-5.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
