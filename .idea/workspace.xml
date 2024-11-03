@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8698eb10-76e7-4c35-890b-d7b386198d4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example5_v2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example6_v2.java" afterDir="false" />
+    <list default="true" id="8698eb10-76e7-4c35-890b-d7b386198d4c" name="Changes" comment="Update repo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +52,8 @@
     &quot;Application.Example4.executor&quot;: &quot;Run&quot;,
     &quot;Application.Example5.executor&quot;: &quot;Run&quot;,
     &quot;Application.Example5_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example6_v2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
     &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
@@ -86,23 +83,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example5_v2">
+  <component name="RunManager" selected="Application.Example6_v2">
     <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example1" />
-      <module name="Thread-Affinity" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example3" />
-      <module name="Thread-Affinity" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example4" />
       <module name="Thread-Affinity" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,21 +105,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example6" />
+      <module name="Thread-Affinity" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example6_v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example6_v2" />
+      <module name="Thread-Affinity" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example6_v2" />
+        <item itemvalue="Application.Example6" />
         <item itemvalue="Application.Example5_v2" />
         <item itemvalue="Application.Example5" />
         <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.Example4" />
-        <item itemvalue="Application.Example3" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
       </set>
     </attachedChunks>
   </component>
@@ -161,8 +158,20 @@
       <workItem from="1728053844911" duration="628000" />
       <workItem from="1728089310246" duration="12000" />
       <workItem from="1728373759516" duration="6707000" />
-      <workItem from="1729676841178" duration="335000" />
+      <workItem from="1729676841178" duration="475000" />
+      <workItem from="1730198887192" duration="92000" />
+      <workItem from="1730199058399" duration="1567000" />
+      <workItem from="1730206110005" duration="1669000" />
     </task>
+    <task id="LOCAL-00001" summary="Update repo">
+      <option name="closed" value="true" />
+      <created>1729677273491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729677273491</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,5 +187,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update repo" />
   </component>
 </project>
